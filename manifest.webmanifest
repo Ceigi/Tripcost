@@ -1,0 +1,14 @@
+{
+  "name": "TripCost 旅行记账",
+  "short_name": "TripCost",
+  "description": "旅行支出、汇率换算与多人分账",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fc",
+  "theme_color": "#3158d8",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}
+  ]
+}
